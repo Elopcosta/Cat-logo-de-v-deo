@@ -12,7 +12,6 @@
 </head>
 
 <body>
-    <header>GUIMINAMFLIX</header>
 
     <section class="chamada">
         <div class="chamada-texto">
